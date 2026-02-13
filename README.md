@@ -1,7 +1,7 @@
 # Patient–Region Heterogeneous Graph Neural Network (HGNN)
 
 <p align="center">
-  <img src="model.png" alt="Patient–Region HGNN Architecture" width="900">
+  <img src="Model.png" alt="Patient–Region HGNN Architecture" width="900">
 </p>
 
 This repository presents a two-layer heterogeneous graph framework for joint
