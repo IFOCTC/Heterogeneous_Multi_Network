@@ -1,8 +1,13 @@
-## Patient–Region Heterogeneous Graph Neural Network (HGNN)
+# Patient–Region Heterogeneous Graph Neural Network (HGNN)
 
-This repository presents a two-layer heterogeneous graph framework for joint patient-level and region-level prediction using a Heterogeneous Graph Neural Network (HGNN).
+<p align="center">
+  <img src="assets/architecture.png" alt="Patient–Region HGNN Architecture" width="900">
+</p>
 
-## Overview
+This repository presents a two-layer heterogeneous graph framework for joint
+patient-level and region-level prediction using a Heterogeneous Graph Neural Network (HGNN).
+
+# Overview
 
 The model represents medical data as a hierarchical graph with two interconnected layers:
 
