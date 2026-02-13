@@ -11,7 +11,7 @@ patient-level and region-level prediction using a Heterogeneous Graph Neural Net
 
 The model represents medical data as a hierarchical graph with two interconnected layers:
 
-> Layer 01 – Patients (Hyper-Edges)
+# Layer 01 – Patients (Hyper-Edges)
 
 Each node corresponds to a patient
 
